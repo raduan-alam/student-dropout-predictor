@@ -22,19 +22,14 @@ example_student = {
 predict_dropout(example_student)
 
 
-
-### 🧩 Part 3: SHAP Plot
-
-
-
-
-### 📊 SHAP Summary Plot — Why the Model Makes Each Prediction
+## 🔍 Model Interpretability
 
 <p align="center">
-  <img src="shap_summary_plot.png" width="700" alt="SHAP Summary Plot">
+<img src="shap_summary_dropout_predictor.png" width="700" alt="SHAP Summary Plot">
 </p>
 
-> Interpretable patterns that decision-makers and interviewers love — showing how each feature contributes to dropout risk.
+> Interpretable patterns that decision-makers and interviewers love – showing how each feature contributes to dropout risk.
+
 
 
 ## 🧪 Highlights: What Makes This Project Special
