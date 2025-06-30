@@ -24,9 +24,9 @@ predict_dropout(example_student)
 
 ## 🔍 Model Interpretability
 
-<p align="center">
-<img src="shap_summary_dropout_predictor.png" width="700" alt="SHAP Summary Plot">
+https://raw.githubusercontent.com/raduan-alam/student-dropout-predictor/main/shap_summary_dropout_predictor.png
 </p>
+
 
 > Interpretable patterns that decision-makers and interviewers love – showing how each feature contributes to dropout risk.
 
@@ -80,11 +80,3 @@ predict_dropout(example_student)
 - Feature Engineering & Encoding  
 - Cross-Validation & Hyperparameter Tuning  
 - Model Deployment Preparation (Pickle, Custom Predict Function)
-
-
-## 🧑‍💻 About the Author
-
-**Raduan Alam**  
-📍 Aspiring Data Scientist & Machine Learning Engineer  
-💬 Passionate about solving real-world problems through data  
-🔗 [GitHub Profile](https://github.com/raduan-alam)
