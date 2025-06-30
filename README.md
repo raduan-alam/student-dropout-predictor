@@ -24,7 +24,7 @@ predict_dropout(example_student)
 
 ## 🔍 Model Interpretability
 
-https://raw.githubusercontent.com/raduan-alam/student-dropout-predictor/main/shap_summary_dropout_predictor.png
+![SHAP Summary Plot](https://raw.githubusercontent.com/raduan-alam/student-dropout-predictor/main/shap_summary_dropout_predictor.png)
 </p>
 
 
