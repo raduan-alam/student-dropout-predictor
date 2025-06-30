@@ -22,17 +22,6 @@ example_student = {
 predict_dropout(example_student)
 
 
-## 🔍 Model Interpretability
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raduan-alam/student-dropout-predictor/main/shap_summary_dropout_predictor.png" width="700" alt="SHAP Summary Plot">
-</p>
-
-
-> Interpretable patterns that decision-makers and interviewers love – showing how each feature contributes to dropout risk.
-
-
-
 ## 🧪 Highlights: What Makes This Project Special
 
 | Category         | What’s Used                                            |
